@@ -1,5 +1,5 @@
 function solution(players, callings) {
-    const playerMap = {};
+    var playerMap = {};
     
     players.forEach((playerName, index) => {
         playerMap[playerName] = index;

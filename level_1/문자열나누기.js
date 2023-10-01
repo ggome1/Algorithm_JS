@@ -1,6 +1,5 @@
 function solution(s) {
-    var answer = 0;
-    var index = 0;
+    var answer = 0, index = 0;
 	while (index < s.length)
 	{
 		var x = s[index];
